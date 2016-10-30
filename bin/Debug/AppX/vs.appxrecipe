@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-30T11:24:46.324</Modified>
+      <Modified>2016-10-30T15:32:52.345</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\bin\Debug\Hello.exe">
       <PackagePath>Hello.exe</PackagePath>
-      <Modified>2016-10-30T12:53:47.545</Modified>
+      <Modified>2016-10-30T15:34:47.570</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\bin\Debug\Hello.pdb">
       <PackagePath>Hello.pdb</PackagePath>
-      <Modified>2016-10-30T12:53:47.266</Modified>
+      <Modified>2016-10-30T15:34:47.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2016-10-30T12:53:34.524</Modified>
+      <Modified>2016-10-30T15:34:16.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

@@ -8,15 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <TextBlock Text="Hello, Windows 8 !!"
-                   FontFamily="Times New Roman"
-                   FontSize="96"
-                   Foreground="Yellow"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"
-                   >
-            
-            
-        </TextBlock>
+        <Image Source="http://www.charlespetzold.com/pw6/PetzoldJersey.jpg">            
+        </Image>
     </Grid>
 </Page>
