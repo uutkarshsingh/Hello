@@ -15,10 +15,6 @@ C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\Common\S
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\MainPage.xaml
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\Hello.exe
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\Hello.pdb
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\priconfig.xml.intermediate
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\layout.resfiles.intermediate
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\resources.resfiles.intermediate
-C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\pri.resfiles.intermediate
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\priconfig.xml
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\layout.resfiles
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\Hello\Hello\obj\Debug\resources.resfiles
